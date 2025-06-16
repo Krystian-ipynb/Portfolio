@@ -14,25 +14,6 @@ Welcome to my interactive project portfolio! This repository contains examples o
 
 ---
 
-## 🚀 How to Use
-
-1. Open [`portfolio.html`](./portfolio.html) in your browser.
-2. Each project contains:
-   - Embedded documents (PDF, Word, PowerPoint, Jupyter notebooks)
-   - Skills learned
-   - A short evaluation or reflection
-3. You can also download source files directly from this repo.
-
----
-
-## 🔧 Tech Stack
-
-- HTML + CSS (for layout)
-- Embedded files from GitHub Pages
-- Optional: Python automation (for file encoding or dynamic page generation)
-
----
-
 ## 📫 Contact
 
 If you're an employer, collaborator, or fellow student and would like to know more, please reach out!
