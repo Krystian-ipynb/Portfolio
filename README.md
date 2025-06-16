@@ -18,5 +18,5 @@ Welcome to my interactive project portfolio! This repository contains examples o
 
 If you're an employer, collaborator, or fellow student and would like to know more, please reach out!
 
-- Email: krystian.rozanski@qut.edu.au  
-- LinkedIn: [YourLinkedInProfileHere](https://www.linkedin.com/)
+- Email: krystianrozanski@hotmail.com  
+- LinkedIn: https://www.linkedin.com/in/krystian-rozanski-643a70262/
