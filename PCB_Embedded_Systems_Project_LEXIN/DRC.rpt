@@ -1,0 +1,71 @@
+** Drc report for final_lexin_circuit.kicad_pcb **
+** Created on 2026-07-26T19:55:17 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 13 DRC violations **
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.1847 mm)
+    Rule: board setup constraints hole; error (excluded)
+    @(232.6800 mm, 88.2000 mm): Pad B12 [GND] of J6 on F.Cu
+    @(233.8200 mm, 87.8900 mm): NPTH pad of J6
+    footprint design
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)
+    Rule: board setup constraints; error (excluded)
+    @(185.8000 mm, 119.4000 mm): PTH pad 41 [GND] of U7
+    footprint not board design
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)
+    Rule: board setup constraints; error (excluded)
+    @(185.8000 mm, 118.0000 mm): PTH pad 41 [GND] of U7
+    footprint design
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)
+    Rule: board setup constraints; error (excluded)
+    @(185.1000 mm, 120.1000 mm): PTH pad 41 [GND] of U7
+    footprint design
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)
+    Rule: board setup constraints; error (excluded)
+    @(185.1000 mm, 118.7000 mm): PTH pad 41 [GND] of U7
+    footprint design
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)
+    Rule: board setup constraints; error (excluded)
+    @(185.1000 mm, 117.3000 mm): PTH pad 41 [GND] of U7
+    footprint design
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)
+    Rule: board setup constraints; error (excluded)
+    @(184.4000 mm, 119.4000 mm): PTH pad 41 [GND] of U7
+    footprint design
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)
+    Rule: board setup constraints; error (excluded)
+    @(184.4000 mm, 118.0000 mm): PTH pad 41 [GND] of U7
+    footprint design
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)
+    Rule: board setup constraints; error (excluded)
+    @(183.7000 mm, 120.1000 mm): PTH pad 41 [GND] of U7
+    footprint design
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)
+    Rule: board setup constraints; error (excluded)
+    @(183.7000 mm, 118.7000 mm): PTH pad 41 [GND] of U7
+    footprint design
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)
+    Rule: board setup constraints; error (excluded)
+    @(183.7000 mm, 117.3000 mm): PTH pad 41 [GND] of U7
+    footprint design
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)
+    Rule: board setup constraints; error (excluded)
+    @(183.0000 mm, 119.4000 mm): PTH pad 41 [GND] of U7
+    footprint design
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)
+    Rule: board setup constraints; error (excluded)
+    @(183.0000 mm, 118.0000 mm): PTH pad 41 [GND] of U7
+    footprint design
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
